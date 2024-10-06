@@ -1,0 +1,4 @@
+images/
+project/
+indexx.html
+.gitignore
